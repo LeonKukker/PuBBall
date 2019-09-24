@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>pogo is a faggot with those glasses</Text>
+      <Text>pogo is a sexy ass god with those glasses</Text>
     </View>
   );
 }
